@@ -1,11 +1,11 @@
-About r-pafr
-============
+About r-pafr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pafr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://dwinter.github.io/pafr/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pafr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides functions to read, process and visualize pairwise sequence alignments in the 'PAF' format used by 'minimap2' and other whole-genome aligners. 'minimap2' is described by Li H. (2018) <doi:10.1093/bioinformatics/bty191>.
 
